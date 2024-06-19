@@ -1,2 +1,8 @@
-# export_all_projects
-Export all instance from a matrix req instance
+# Installation
+````
+npm install
+````
+# Usage
+````
+node main.js --url https://xxxxxx --token api_xxxxxx
+ ````
